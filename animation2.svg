@@ -23,7 +23,7 @@
                 -webkit-background-clip: text;
                 background-clip: text;
                 color: transparent;
-                font-size: 10vw;
+                font-size: 14vw;
                 font-family:
 						system-ui,
 						-apple-system,
@@ -66,7 +66,7 @@
 			</style>
 			<div class="container">
                 <div class="luminance">
-                    Hi, I'm Zinkil!
+                    Hi, I'm Marwan!
                 </div>
             </div>
         </div>
