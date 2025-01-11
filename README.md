@@ -1,6 +1,6 @@
 <img src="https://github.com/JuustMarwan/JuustMarwan/blob/main/animation.svg"/>
 
-#### I am a PHP & Pocketmine Developer also A Content Creator with over 1k .. i was the Developer of (Vatica Practice, KrunkerPE, Pandaz Practice and BlocksMC Bedrock).
+#### I am a PHP, JavaScript And Pocketmine Developer also A Content Creator with over 1k .. i was the Developer of (KrunkerPE, Pandaz Practice, BlocksMC Bedrock, HeroxPe And Notex Practice).
 
 - 🌍 Location: Africa/Egypt :egypt:
 - 💬 Languages: Arabic, English
