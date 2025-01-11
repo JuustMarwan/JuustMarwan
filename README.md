@@ -11,13 +11,13 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Zinkil-YT}/count.svg" alt="Visitor's Count" /></p>
 
 <h4 align="center">💾 Profile stats </h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zinkil-YT&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="Zinkil-YT :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JuustMarwan&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="Marwan Elmogazy :: Profile Stats" /></p>
 
 <h4 align="center">🚀 Top langs </h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinkil-YT&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="Zinkil-YT :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuustMarwan&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="Marwan Elmogazy :: Top Langs" /></p>
 
 <h4 align="center">🏆 My Trophies </h4>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zinkil-YT&theme=discord" alt="Zinkil-YT :: Top Langs" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=JuustMarwan&theme=discord" alt="Marwan Elmogazy :: Top Langs" /></p>
 
 <h6><b>©Copyright By JuustMarwan - 2025</b></h6>
 
