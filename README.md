@@ -1,6 +1,6 @@
 <img src="https://github.com/JuustMarwan/JuustMarwan/blob/main/animation.svg"/>
 
-#### I am a PHP, JavaScript And Pocketmine Developer also A Content Creator with over 1k .. i was the Developer of (KrunkerPE, Pandaz Practice, BlocksMC Bedrock, HeroxPe And Notex Practice).
+#### I'm a Web/Apps Developer also a Content Creator with over 1000 subs!
 
 - 🌍 Location: Africa/Egypt :egypt:
 - 💬 Languages: Arabic, English
@@ -8,7 +8,7 @@
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">👀 Visitor's count </h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Zinkil-YT}/count.svg" alt="Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{JuustMarwan}/count.svg" alt="Visitor's Count" /></p>
 
 <h4 align="center">💾 Profile stats </h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JuustMarwan&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="Marwan Elmogazy :: Profile Stats" /></p>
